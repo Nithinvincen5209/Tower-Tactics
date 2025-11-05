@@ -4,10 +4,10 @@
 
 ## 📖 About This Project
 
-This is a 2D Tower Defense game built in Unity. The player must strategically place and upgrade cannons to stop waves of enemies from reaching their castle. 
+This is a 3D Tower Defense game built in Unity. The player must strategically place and upgrade cannons to stop waves of enemies from reaching their castle. 
 
 ---
-### [Play the Game on itch.io!](https://nithin-vincent.itch.io/castleguard)
+###       [Play the Game on itch.io!](https://nithin-vincent.itch.io/castleguard)
 
 ---
 
