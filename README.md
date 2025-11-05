@@ -8,7 +8,7 @@ This is a 2D Tower Defense game built in Unity. The player must strategically pl
 
 ---
 
-### [Play the Game on itch.io!](https://nithin-vincent.itch.io/castleguard)
+### tower-tactics.jpg
 
 ---
 
