@@ -1,6 +1,6 @@
 # Project: "TOWER  TACTICS" (Tower Defense)
 
-![A GIF of towers shooting at enemies walking along a path]
+https://github.com/Nithinvincen5209/Tower-Tactics/blob/main/tower-tactics.jpg.png
 
 ## 📖 About This Project
 
