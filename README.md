@@ -22,6 +22,12 @@ This is a 3D Tower Defense game built in Unity. The player must strategically pl
 * **UI Management:** Coded the health bar for the cannon and  tank, the player's coin display, and the "Game Over" screen.
 
 ---
+## 🛠️ Technologies Used
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Wwise](https://img.shields.io/badge/Wwise-000000?style=for-the-badge&logo=Wwise&logoColor=white)
+
 
 ## 💻 Built With
 
