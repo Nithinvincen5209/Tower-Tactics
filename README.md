@@ -7,7 +7,7 @@
 This is a 3D Tower Defense game built in Unity. The player must strategically place and upgrade cannons to stop waves of enemies from reaching their castle. 
 
 ---
-###       [Play the Game on itch.io!](https://nithin-vincent.itch.io/castleguard)
+###  [![Watch the Gameplay Video](https://img.youtube.com/vi/cLmZDSu1DWI/maxresdefault.jpg)](https://www.youtube.com/watch?v=cLmZDSu1DWI)
 
 ---
 
