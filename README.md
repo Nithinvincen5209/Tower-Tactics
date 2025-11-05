@@ -8,9 +8,10 @@ This is a 2D Tower Defense game built in Unity. The player must strategically pl
 
 ---
 
-### ![Tower Tactics Gameplay] (tower-tactics.jpg.png)
+### 
 
 ---
+<img width="1920" height="1080" alt="tower-tactics jpg" src="https://github.com/user-attachments/assets/07243264-d5b8-4836-950f-063abc518848" />
 
 ## 🛠️ Key Features I Programmed
 
