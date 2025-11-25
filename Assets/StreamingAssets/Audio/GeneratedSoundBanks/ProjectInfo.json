@@ -1,0 +1,36 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "Tower Defense1_WwiseProject",
+   "GUID": "{E2BA0FBB-5D19-45F7-B27D-E35CD233BFD8}",
+   "Generator": "2024.1.7.8863"
+  },
+  "CacheRoot": "../../../../Tower Defense1_WwiseProject/.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{386F700C-5FB9-4861-86EC-86FC867D75A1}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "../../../../Tower Defense1_WwiseProject/GeneratedSoundBanks/Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{A9A5C308-C3B2-4198-9247-0937A6FBB51B}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "../../../../Tower Defense1_WwiseProject/GeneratedSoundBanks/Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{57C86CD1-67ED-4466-9F6C-F672FDC37E8D}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{1313EFF7-966C-7BF5-3548-D94954FBC2E0}"
+ }
+}
